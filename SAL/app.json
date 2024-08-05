@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "2c043084-4703-46da-9d38-e06cb183c642",
+      "name": "BaseData",
+      "publisher": "MODUS Consult GmbH",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
