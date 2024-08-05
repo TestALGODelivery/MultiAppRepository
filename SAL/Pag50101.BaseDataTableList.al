@@ -22,5 +22,22 @@ page 50101 BaseDataTableList
                 }
             }
         }
+
+    }
+    actions
+    {
+        area(Creation)
+        {
+            action(FeatureB)
+            {
+                ApplicationArea = All;
+                Caption = 'Cool Feature B';
+
+                trigger OnAction()
+                begin
+                    Message('Thats on second Release');
+                end;
+            }
+        }
     }
 }
