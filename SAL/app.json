@@ -2,7 +2,7 @@
   "id": "1c89f307-fba2-4b93-b988-964bcef05a23",
   "name": "SAL",
   "publisher": "MODUS Consult GmbH",
-  "version": "1.1.0.0",
+  "version": "1.2.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -15,7 +15,7 @@
       "id": "2c043084-4703-46da-9d38-e06cb183c642",
       "name": "BaseData",
       "publisher": "MODUS Consult GmbH",
-      "version": "1.1.0.0"
+      "version": "1.2.0.0"
     }
   ],
   "screenshots": [],
